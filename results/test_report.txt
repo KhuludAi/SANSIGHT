@@ -1,0 +1,19 @@
+Accuracy: 0.9650
+Macro F1: 0.9649
+
+              precision    recall  f1-score   support
+
+         CNV     0.8989    0.9960    0.9450       250
+         DME     0.9804    1.0000    0.9901       250
+      DRUSEN     0.9955    0.8840    0.9364       250
+      NORMAL     0.9959    0.9800    0.9879       250
+
+    accuracy                         0.9650      1000
+   macro avg     0.9677    0.9650    0.9649      1000
+weighted avg     0.9677    0.9650    0.9649      1000
+
+Confusion Matrix:
+[[249   1   0   0]
+ [  0 250   0   0]
+ [ 28   0 221   1]
+ [  0   4   1 245]]
