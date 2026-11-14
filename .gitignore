@@ -3,3 +3,20 @@
 OCT/
 __pycache__/
 *.pyc
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local database
+*.db
+
+# Large datasets
+OCT_papilledema/
+
+# Model weights (use Git LFS if needed)
+*.pth
+
+# Local secrets
+.env
+.env.*

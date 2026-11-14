@@ -1,0 +1,1130 @@
+path,class,patient_group,split
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P009_L_Bscan1.jpg,Normal,Normal:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P009_L_Bscan2.jpg,Normal,Normal:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P009_L_Bscan3.jpg,Normal,Normal:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P009_L_Bscan4.jpg,Normal,Normal:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P009_L_Bscan5.jpg,Normal,Normal:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P009_R_Bscan1.jpg,Normal,Normal:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P009_R_Bscan2.jpg,Normal,Normal:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P009_R_Bscan3.jpg,Normal,Normal:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P009_R_Bscan4.jpg,Normal,Normal:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P014_L_Bscan1.jpg,Normal,Normal:P014,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P014_L_Bscan2.jpg,Normal,Normal:P014,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P014_L_Bscan3.jpg,Normal,Normal:P014,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P014_L_Bscan4.jpg,Normal,Normal:P014,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P014_R_Bscan1.jpg,Normal,Normal:P014,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P014_R_Bscan2.jpg,Normal,Normal:P014,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P014_R_Bscan3.jpg,Normal,Normal:P014,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P014_R_Bscan4.jpg,Normal,Normal:P014,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P008_L_Bscan1.jpg,Normal,Normal:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P008_L_Bscan2.jpg,Normal,Normal:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P008_L_Bscan3.jpg,Normal,Normal:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P008_L_Bscan4.jpg,Normal,Normal:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P008_L_Bscan5.jpg,Normal,Normal:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P008_R_Bscan1.jpg,Normal,Normal:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P008_R_Bscan2.jpg,Normal,Normal:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P008_R_Bscan3.jpg,Normal,Normal:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P008_R_Bscan4.jpg,Normal,Normal:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P007_L_Bscan1.jpg,Normal,Normal:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P007_L_Bscan2.jpg,Normal,Normal:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P007_L_Bscan3.jpg,Normal,Normal:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P007_L_Bscan4.jpg,Normal,Normal:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P007_L_Bscan5.jpg,Normal,Normal:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P007_R_Bscan1.jpg,Normal,Normal:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P007_R_Bscan2.jpg,Normal,Normal:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P007_R_Bscan3.jpg,Normal,Normal:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P007_R_Bscan4.jpg,Normal,Normal:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P015_L_Bscan1.jpg,Normal,Normal:P015,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P015_L_Bscan2.jpg,Normal,Normal:P015,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P015_L_Bscan3.jpg,Normal,Normal:P015,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P015_L_Bscan4.jpg,Normal,Normal:P015,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P015_R_Bscan1.jpg,Normal,Normal:P015,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P015_R_Bscan2.jpg,Normal,Normal:P015,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P015_R_Bscan3.jpg,Normal,Normal:P015,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P015_R_Bscan4.jpg,Normal,Normal:P015,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P013_L_Bscan1.jpg,Normal,Normal:P013,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P013_L_Bscan2.jpg,Normal,Normal:P013,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P013_L_Bscan3.jpg,Normal,Normal:P013,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P013_L_Bscan4.jpg,Normal,Normal:P013,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P013_R_Bscan1.jpg,Normal,Normal:P013,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P013_R_Bscan2.jpg,Normal,Normal:P013,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P013_R_Bscan3.jpg,Normal,Normal:P013,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P013_R_Bscan4.jpg,Normal,Normal:P013,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P006_L_Bscan1.jpg,Normal,Normal:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P006_L_Bscan2.jpg,Normal,Normal:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P006_L_Bscan3.jpg,Normal,Normal:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P006_L_Bscan4.jpg,Normal,Normal:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P006_L_Bscan5.jpg,Normal,Normal:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P006_R_Bscan1.jpg,Normal,Normal:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P006_R_Bscan2.jpg,Normal,Normal:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P006_R_Bscan3.jpg,Normal,Normal:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P006_R_Bscan4.jpg,Normal,Normal:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P003_L_Bscan1.jpg,Normal,Normal:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P003_L_Bscan2.jpg,Normal,Normal:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P003_L_Bscan3.jpg,Normal,Normal:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P003_L_Bscan4.jpg,Normal,Normal:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P003_L_Bscan5.jpg,Normal,Normal:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P003_R_Bscan1.jpg,Normal,Normal:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P010_L_Bscan1.jpg,Normal,Normal:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P010_L_Bscan2.jpg,Normal,Normal:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P010_L_Bscan3.jpg,Normal,Normal:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P010_L_Bscan4.jpg,Normal,Normal:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P010_L_Bscan5.jpg,Normal,Normal:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P010_R_Bscan1.jpg,Normal,Normal:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P010_R_Bscan2.jpg,Normal,Normal:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P010_R_Bscan3.jpg,Normal,Normal:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P010_R_Bscan4.jpg,Normal,Normal:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P004_R_Bscan1.jpg,Normal,Normal:P004,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P004_R_Bscan2.jpg,Normal,Normal:P004,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P004_R_Bscan3.jpg,Normal,Normal:P004,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P004_R_Bscan4.jpg,Normal,Normal:P004,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P005_L_Bscan1.jpg,Normal,Normal:P005,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P005_L_Bscan2.jpg,Normal,Normal:P005,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P005_L_Bscan3.jpg,Normal,Normal:P005,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P005_L_Bscan4.jpg,Normal,Normal:P005,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P005_L_Bscan5.jpg,Normal,Normal:P005,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P005_R_Bscan1.jpg,Normal,Normal:P005,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P005_R_Bscan2.jpg,Normal,Normal:P005,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P005_R_Bscan3.jpg,Normal,Normal:P005,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P005_R_Bscan4.jpg,Normal,Normal:P005,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P012_L_Bscan1.jpg,Normal,Normal:P012,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P012_L_Bscan2.jpg,Normal,Normal:P012,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P012_L_Bscan3.jpg,Normal,Normal:P012,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P012_L_Bscan4.jpg,Normal,Normal:P012,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P012_L_Bscan5.jpg,Normal,Normal:P012,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P012_R_Bscan1.jpg,Normal,Normal:P012,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P012_R_Bscan2.jpg,Normal,Normal:P012,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P012_R_Bscan3.jpg,Normal,Normal:P012,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P012_R_Bscan4.jpg,Normal,Normal:P012,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P001_L_Bscan1.jpg,Normal,Normal:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P001_L_Bscan2.jpg,Normal,Normal:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P001_L_Bscan3.jpg,Normal,Normal:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P001_L_Bscan4.jpg,Normal,Normal:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P001_L_Bscan5.jpg,Normal,Normal:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P001_L_Bscan6.jpg,Normal,Normal:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P001_R_Bscan5.jpg,Normal,Normal:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P002_L_Bscan1.jpg,Normal,Normal:P002,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P002_L_Bscan2.jpg,Normal,Normal:P002,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P002_L_Bscan3.jpg,Normal,Normal:P002,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P002_L_Bscan4.jpg,Normal,Normal:P002,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P002_L_Bscan5.jpg,Normal,Normal:P002,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P002_L_Bscan6.jpg,Normal,Normal:P002,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P002_R_Bscan2.jpg,Normal,Normal:P002,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P011_L_Bscan1.jpg,Normal,Normal:P011,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P011_L_Bscan2.jpg,Normal,Normal:P011,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P011_L_Bscan3.jpg,Normal,Normal:P011,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P011_L_Bscan4.jpg,Normal,Normal:P011,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P011_L_Bscan5.jpg,Normal,Normal:P011,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P011_R_Bscan1.jpg,Normal,Normal:P011,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P011_R_Bscan2.jpg,Normal,Normal:P011,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P011_R_Bscan3.jpg,Normal,Normal:P011,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Normal\P011_R_Bscan4.jpg,Normal,Normal:P011,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan1.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan10.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan11.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan12.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan13.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan14.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan15.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan16.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan17.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan18.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan19.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan2.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan20.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan21.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan22.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan23.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan24.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan25.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan3.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan4.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan5.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan6.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan7.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan8.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_L_Bscan9.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan1.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan10.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan11.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan12.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan13.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan14.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan15.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan16.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan17.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan18.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan19.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan2.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan20.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan21.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan22.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan23.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan24.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan25.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan3.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan4.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan5.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan6.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan7.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan8.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P006_R_Bscan9.jpg,Papilledema,Papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan1.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan10.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan11.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan12.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan13.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan14.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan15.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan16.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan17.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan18.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan19.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan2.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan20.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan21.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan22.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan23.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan24.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan25.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan3.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan4.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan5.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan6.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan7.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan8.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_L_Bscan9.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan1.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan10.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan11.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan12.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan13.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan14.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan15.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan16.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan17.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan18.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan19.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan2.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan20.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan21.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan22.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan23.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan24.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan25.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan3.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan4.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan5.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan6.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan7.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan8.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P008_R_Bscan9.jpg,Papilledema,Papilledema:P008,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan1.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan10.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan11.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan12.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan13.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan14.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan15.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan16.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan17.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan18.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan19.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan2.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan20.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan21.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan22.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan23.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan24.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan25.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan3.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan4.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan5.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan6.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan7.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan8.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_L_Bscan9.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan1.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan10.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan11.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan12.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan13.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan14.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan15.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan16.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan17.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan18.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan19.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan2.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan20.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan21.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan22.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan23.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan24.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan25.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan3.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan4.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan5.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan6.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan7.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan8.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P003_R_Bscan9.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan1.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan10.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan11.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan12.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan13.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan14.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan15.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan16.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan17.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan18.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan19.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan2.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan20.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan21.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan22.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan23.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan3.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan4.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan5.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan6.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan7.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan8.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_L_Bscan9.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan1.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan10.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan11.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan12.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan13.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan14.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan15.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan16.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan17.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan18.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan19.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan2.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan20.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan21.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan22.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan23.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan3.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan4.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan5.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan6.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan7.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan8.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P003_R_Bscan9.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_L_Bscan1.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_L_Bscan10.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_L_Bscan11.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_L_Bscan12.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_L_Bscan2.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_L_Bscan3.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_L_Bscan4.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_L_Bscan5.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_L_Bscan6.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_L_Bscan7.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_L_Bscan8.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_L_Bscan9.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_R_Bscan1.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_R_Bscan10.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_R_Bscan11.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_R_Bscan12.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_R_Bscan2.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_R_Bscan3.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_R_Bscan4.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_R_Bscan5.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_R_Bscan6.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_R_Bscan7.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_R_Bscan8.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P003_R_Bscan9.jpg,Papilledema,Papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan1.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan10.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan11.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan12.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan13.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan14.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan15.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan16.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan17.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan18.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan19.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan2.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan20.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan21.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan22.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan23.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan24.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan25.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan3.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan4.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan5.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan6.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan7.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan8.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_L_Bscan9.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan1.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan10.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan11.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan12.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan13.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan14.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan15.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan16.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan17.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan18.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan19.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan2.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan20.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan21.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan22.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan23.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan24.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan25.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan3.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan4.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan5.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan6.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan7.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan8.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P010_R_Bscan9.jpg,Papilledema,Papilledema:P010,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan1.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan10.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan11.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan12.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan13.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan14.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan15.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan16.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan17.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan18.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan19.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan2.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan20.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan21.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan22.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan23.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan24.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan25.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan3.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan4.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan5.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan6.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan7.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan8.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_L_Bscan9.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan1.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan10.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan11.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan12.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan13.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan14.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan15.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan16.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan17.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan18.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan19.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan2.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan20.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan21.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan22.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan23.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan24.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan3.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan4.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan5.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan6.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan7.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan8.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P011_R_Bscan9.jpg,Papilledema,Papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan1.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan10.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan11.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan12.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan13.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan14.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan15.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan16.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan17.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan18.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan19.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan2.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan20.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan21.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan22.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan23.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan24.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan25.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan3.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan4.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan5.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan6.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan7.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan8.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_L_Bscan9.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan1.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan10.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan11.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan12.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan13.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan14.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan15.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan16.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan17.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan18.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan19.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan2.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan20.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan21.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan22.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan23.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan24.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan25.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan3.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan4.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan5.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan6.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan7.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan8.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P007_R_Bscan9.jpg,Papilledema,Papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan1.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan10.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan11.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan12.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan13.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan14.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan15.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan16.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan17.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan18.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan19.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan2.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan20.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan21.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan22.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan23.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan24.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan25.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan3.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan4.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan5.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan6.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan7.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan8.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_L_Bscan9.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan1.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan10.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan11.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan12.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan13.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan14.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan15.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan16.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan17.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan18.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan19.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan2.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan20.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan21.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan22.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan23.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan24.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan25.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan3.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan4.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan5.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan6.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan7.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan8.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P005_R_Bscan9.jpg,Papilledema,Papilledema:P005,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan1.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan10.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan11.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan12.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan13.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan14.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan15.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan16.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan17.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan18.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan19.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan2.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan20.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan21.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan22.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan23.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan24.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan25.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan3.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan4.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan5.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan6.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan7.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan8.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_L_Bscan9.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan1.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan10.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan11.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan12.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan13.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan14.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan15.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan16.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan17.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan18.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan19.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan2.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan20.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan21.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan22.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan23.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan24.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan25.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan3.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan4.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan5.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan6.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan7.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan8.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P009_R_Bscan9.jpg,Papilledema,Papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan1.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan10.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan11.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan12.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan13.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan14.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan15.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan16.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan17.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan18.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan19.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan2.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan20.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan21.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan22.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan23.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan24.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan25.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan3.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan4.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan5.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan6.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan7.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan8.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_L_Bscan9.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan1.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan10.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan11.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan12.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan13.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan14.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan15.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan16.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan17.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan18.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan19.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan2.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan20.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan21.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan22.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan23.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan24.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan25.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan3.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan4.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan5.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan6.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan7.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan8.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P004_R_Bscan9.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan1.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan10.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan11.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan12.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan13.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan14.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan15.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan16.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan17.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan18.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan19.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan2.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan20.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan21.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan22.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan23.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan3.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan4.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan5.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan6.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan7.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan8.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_L_Bscan9.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan1.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan10.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan11.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan12.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan13.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan14.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan15.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan16.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan17.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan18.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan19.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan2.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan20.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan21.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan22.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan23.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan3.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan4.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan5.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan6.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan7.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan8.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P004_R_Bscan9.jpg,Papilledema,Papilledema:P004,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P002_L_Bscan1.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P002_L_Bscan10.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P002_L_Bscan2.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P002_L_Bscan3.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P002_L_Bscan4.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P002_L_Bscan5.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P002_L_Bscan6.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P002_L_Bscan7.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P002_L_Bscan8.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P002_L_Bscan9.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P002_R_Bscan1.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P002_R_Bscan10.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P002_R_Bscan2.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P002_R_Bscan3.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P002_R_Bscan4.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P002_R_Bscan5.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P002_R_Bscan6.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P002_R_Bscan7.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P002_R_Bscan8.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P002_R_Bscan9.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan1.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan10.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan11.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan12.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan13.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan14.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan15.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan16.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan17.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan18.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan19.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan2.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan20.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan21.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan22.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan23.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan24.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan25.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan3.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan4.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan5.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan6.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan7.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan8.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_L_Bscan9.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan1.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan10.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan11.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan12.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan13.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan14.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan15.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan16.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan17.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan18.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan19.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan2.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan20.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan21.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan22.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan23.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan24.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan25.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan3.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan4.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan5.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan6.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan7.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan8.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P002_R_Bscan9.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan1.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan10.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan11.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan12.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan13.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan14.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan15.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan16.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan17.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan18.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan19.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan2.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan20.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan21.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan22.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan23.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan3.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan4.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan5.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan6.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan7.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan8.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_L_Bscan9.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan1.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan10.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan11.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan12.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan13.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan14.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan15.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan16.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan17.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan18.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan19.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan2.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan20.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan21.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan22.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan23.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan3.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan4.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan5.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan6.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan7.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan8.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P002_R_Bscan9.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_L_Bscan1.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_L_Bscan10.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_L_Bscan11.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_L_Bscan12.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_L_Bscan2.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_L_Bscan3.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_L_Bscan4.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_L_Bscan5.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_L_Bscan6.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_L_Bscan7.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_L_Bscan8.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_L_Bscan9.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_R_Bscan1.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_R_Bscan10.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_R_Bscan11.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_R_Bscan12.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_R_Bscan2.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_R_Bscan3.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_R_Bscan4.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_R_Bscan5.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_R_Bscan6.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_R_Bscan7.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_R_Bscan8.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P002_R_Bscan9.jpg,Papilledema,Papilledema:P002,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan1.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan10.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan11.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan12.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan13.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan14.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan15.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan16.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan17.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan18.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan19.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan2.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan20.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan21.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan22.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan23.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan24.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan25.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan3.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan4.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan5.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan6.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan7.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan8.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_L_Bscan9.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan1.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan10.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan11.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan12.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan13.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan14.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan15.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan16.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan17.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan18.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan19.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan2.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan20.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan21.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan22.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan23.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan24.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan3.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan4.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan5.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan6.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan7.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan8.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P012_R_Bscan9.jpg,Papilledema,Papilledema:P012,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P001_L_Bscan1.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P001_L_Bscan10.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P001_L_Bscan2.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P001_L_Bscan3.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P001_L_Bscan4.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P001_L_Bscan5.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P001_L_Bscan6.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P001_L_Bscan7.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P001_L_Bscan8.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P001_L_Bscan9.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P001_R_Bscan1.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P001_R_Bscan10.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P001_R_Bscan2.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P001_R_Bscan3.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P001_R_Bscan4.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P001_R_Bscan5.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P001_R_Bscan6.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P001_R_Bscan7.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P001_R_Bscan8.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G1\P001_R_Bscan9.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan1.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan10.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan11.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan12.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan13.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan14.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan15.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan16.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan17.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan18.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan19.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan2.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan20.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan21.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan22.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan23.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan24.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan25.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan3.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan4.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan5.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan6.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan7.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan8.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_L_Bscan9.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan1.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan10.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan11.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan12.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan13.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan14.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan15.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan16.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan17.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan18.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan19.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan2.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan20.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan21.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan22.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan23.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan24.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan25.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan3.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan4.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan5.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan6.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan7.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan8.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G2\P001_R_Bscan9.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan1.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan10.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan11.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan12.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan13.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan14.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan15.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan16.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan17.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan18.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan19.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan2.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan20.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan21.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan22.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan23.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan3.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan4.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan5.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan6.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan7.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan8.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_L_Bscan9.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan1.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan10.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan11.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan12.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan13.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan14.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan15.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan16.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan17.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan18.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan19.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan2.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan20.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan21.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan22.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan23.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan3.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan4.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan5.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan6.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan7.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan8.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G3\P001_R_Bscan9.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_L_Bscan1.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_L_Bscan10.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_L_Bscan11.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_L_Bscan12.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_L_Bscan13.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_L_Bscan2.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_L_Bscan3.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_L_Bscan4.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_L_Bscan5.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_L_Bscan6.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_L_Bscan7.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_L_Bscan8.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_L_Bscan9.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_R_Bscan1.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_R_Bscan10.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_R_Bscan11.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_R_Bscan12.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_R_Bscan2.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_R_Bscan3.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_R_Bscan4.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_R_Bscan5.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_R_Bscan6.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_R_Bscan7.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_R_Bscan8.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Papilledema\G4\P001_R_Bscan9.jpg,Papilledema,Papilledema:P001,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P002_L_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P002,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P002_L_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P002,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P002_L_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P002,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P002_L_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P002,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P002_L_Bscan5.jpg,Pseudo papilledema,Pseudo papilledema:P002,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P002_R_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P002,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P002_R_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P002,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P002_R_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P002,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P002_R_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P002,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P007_L_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P007_L_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P007_L_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P007_L_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P007_L_Bscan5.jpg,Pseudo papilledema,Pseudo papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P007_R_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P007_R_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P007_R_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P007_R_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P007,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P009_L_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P009_L_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P009_L_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P009_L_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P009_L_Bscan5.jpg,Pseudo papilledema,Pseudo papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P009_R_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P009_R_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P009_R_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P009_R_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P009,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P011_L_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P011_L_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P011_L_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P011_L_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P011_R_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P011_R_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P011_R_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P011_R_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P011,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P012_L_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P012,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P012_L_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P012,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P012_L_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P012,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P012_L_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P012,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P012_R_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P012,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P012_R_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P012,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P012_R_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P012,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P012_R_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P012,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P013_L_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P013,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P013_L_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P013,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P013_L_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P013,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P013_L_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P013,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P013_R_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P013,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P013_R_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P013,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P013_R_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P013,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P013_R_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P013,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P006_L_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P006_L_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P006_L_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P006_L_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P006_L_Bscan5.jpg,Pseudo papilledema,Pseudo papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P006_R_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P006_R_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P006_R_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P006_R_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P006,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P003_L_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P003_L_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P003_L_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P003_L_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P003_L_Bscan5.jpg,Pseudo papilledema,Pseudo papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P003_R_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P003_R_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P003_R_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P003_R_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P003,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P001_L_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P001,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P001_L_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P001,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P001_L_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P001,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P001_L_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P001,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P001_L_Bscan5.jpg,Pseudo papilledema,Pseudo papilledema:P001,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P001_R_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P001,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P001_R_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P001,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P001_R_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P001,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P001_R_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P001,train
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P005_L_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P005,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P005_L_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P005,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P005_L_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P005,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P005_L_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P005,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P005_L_Bscan5.jpg,Pseudo papilledema,Pseudo papilledema:P005,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P005_R_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P005,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P005_R_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P005,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P005_R_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P005,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P005_R_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P005,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P010_L_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P010,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P010_L_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P010,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P010_L_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P010,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P010_L_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P010,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P010_L_Bscan5.jpg,Pseudo papilledema,Pseudo papilledema:P010,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P010_R_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P010,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P010_R_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P010,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P010_R_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P010,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P010_R_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P010,val
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P008_L_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P008,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P008_L_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P008,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P008_L_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P008,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P008_L_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P008,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P008_L_Bscan5.jpg,Pseudo papilledema,Pseudo papilledema:P008,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P008_R_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P008,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P008_R_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P008,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P008_R_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P008,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P008_R_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P008,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P004_L_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P004,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P004_L_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P004,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P004_L_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P004,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P004_L_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P004,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P004_L_Bscan5.jpg,Pseudo papilledema,Pseudo papilledema:P004,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P004_R_Bscan1.jpg,Pseudo papilledema,Pseudo papilledema:P004,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P004_R_Bscan2.jpg,Pseudo papilledema,Pseudo papilledema:P004,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P004_R_Bscan3.jpg,Pseudo papilledema,Pseudo papilledema:P004,test
+C:\Users\lappy\SANSIGHT\OCT_papilledema\Original Data\OCT Data with Patient ID\Pseudo papilledema\P004_R_Bscan4.jpg,Pseudo papilledema,Pseudo papilledema:P004,test
