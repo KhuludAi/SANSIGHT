@@ -3,6 +3,9 @@ import sqlite3
 import threading
 from pathlib import Path
 from datetime import datetime, timezone
+import urllib.request
+import urllib.error
+import json
 from typing import Literal
 
 from fastapi import FastAPI, HTTPException
@@ -270,6 +273,7 @@ def get_schedule(astronaut_id: str):
         }
 
 
+
 # ==========================================
 # ASTRONAUT OVERVIEW
 # ==========================================
@@ -279,8 +283,73 @@ def astronaut_overview(astronaut_id: str):
     return {
         "astronaut_id": astronaut_id,
         "sans": get_status(astronaut_id),
-        "vitals": {
-            "integration_status": "pending",
-            "data": None
+        "vitals": fetch_vitals(astronaut_id)
+    }
+
+
+
+# ==========================================
+# VITAL SIGNS API INTEGRATION
+# ==========================================
+
+VITALS_API_URL = "http://127.0.0.1:8000"
+
+
+def fetch_vitals(astronaut_id: str):
+    """
+    Fetch latest vital signs, trend analysis,
+    data quality, and alerts from Vital Signs API.
+    """
+
+    def get_json(path):
+        url = f"{VITALS_API_URL}{path}"
+
+        with urllib.request.urlopen(
+            url, timeout=5
+        ) as response:
+            return json.loads(
+                response.read().decode("utf-8")
+            )
+
+    # Get latest vital-sign readings
+    try:
+        latest = get_json(
+            f"/latest/{astronaut_id}"
+        )
+
+    except (
+        urllib.error.URLError,
+        TimeoutError,
+        ValueError
+    ):
+        return {
+            "integration_status": "unavailable",
+            "data": None,
+            "analyses": {},
+            "message": "Vital Signs API is unavailable."
         }
+
+    # Get trend analysis, data quality, and alerts
+    analyses = {}
+
+    for vital in ("hr", "spo2", "glucose", "hrv"):
+        try:
+            analyses[vital] = get_json(
+                f"/trends/{astronaut_id}/{vital}"
+            )
+
+        except (
+            urllib.error.URLError,
+            ValueError,
+            TimeoutError
+        ):
+            analyses[vital] = {
+                "status": "unavailable",
+                "message": "Analysis could not be retrieved."
+            }
+
+    return {
+        "integration_status": "connected",
+        "data": latest,
+        "analyses": analyses
     }
