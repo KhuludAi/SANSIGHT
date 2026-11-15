@@ -20,3 +20,9 @@ OCT_papilledema/
 # Local secrets
 .env
 .env.*
+**/__pycache__/
+*.pyc
+*.db
+.venv/
+.env
+.env.*
